@@ -30,16 +30,16 @@ Run the following command to run startup migrations.
 adonis migration:run
 ```
 
-###  Codigo GIT git 
-git init  
- git status
- git add *
- git status
- git commit -m "Projeto"
-git remote add origin https://github.com/PoderosoBR/Engenharia-software.git
+###  Codigo GITHUB 
+git init 
+git status
+git add *
+git status
+git commit -m "Projeto"
+git remote add origin (DIRETORIO QUE MOSTRAS O GITHUB)
 git push -u origin master
 
 
 
-adonis migration:run
+
 
