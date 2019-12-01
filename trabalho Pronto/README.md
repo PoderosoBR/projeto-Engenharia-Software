@@ -30,7 +30,8 @@ Run the following command to run startup migrations.
 adonis migration:run
 ```
 
-###  Codigo GIT git init
+###  Codigo GIT git 
+git init  
  git status
  git add *
  git status
