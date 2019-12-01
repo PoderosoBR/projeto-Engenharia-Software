@@ -29,4 +29,16 @@ Run the following command to run startup migrations.
 ```js
 adonis migration:run
 ```
-s
+
+###  Codigo GIT git init
+ git status
+ git add *
+ git status
+ git commit -m "Projeto"
+git remote add origin https://github.com/PoderosoBR/Engenharia-software.git
+git push -u origin master
+
+
+
+adonis migration:run
+
