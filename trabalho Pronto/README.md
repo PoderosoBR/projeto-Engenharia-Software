@@ -30,9 +30,10 @@ Run the following command to run startup migrations.
 adonis migration:run
 ```
 
-###  Codigo GITHUB 
+###  Codigo GITHUB
 git init 
-git status
+git statu
+
 git add *
 git status
 git commit -m "Projeto"
